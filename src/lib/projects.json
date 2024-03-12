@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Hippo Toys",
+        "description": "Hippo Toys aims to bring joy and creativity to children through a delightful collection of wooden toys. This project involves the development of a robust e-commerce website for Hippo Toys using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring seamless user experience and efficient management of online transactions.",
+        "type": "FreeLance Project",
+        "imageUrl": {
+            "src": "https://i.postimg.cc/4Nfb9zqf/hippoto.png",
+            "sizes": "(max-width: 640px) 100vw, (max-width: 768px) 70vw, 100vw"
+        },
+        "githubUrl": "",
+        "demoUrl": "",
+        "skills": [
+            "ReactJs",
+            "MongoDB",
+            "Express.js",
+            "Tailwind",
+            "Node.js",
+            "Figma",
+            "Razorpay",
+            "Shaapit Ui"
+        ]
+    },
+    {
+        "title": "Trek Tales India",
+        "description": "Immerse yourself in the beauty of India's camping and trekking spots. Our seamless interface, powered by Next.js, TypeScript, and adorned with the vibrant hues of Tailwind CSS, invites you to embark on a virtual adventure. Discover untamed landscapes, plan your next escapade, and let the trek tales unfold.",
+        "type": "University Project",
+        "imageUrl": {
+            "src": "https://i.ibb.co/w6CLKSj/trektales.png",
+            "sizes": "(max-width: 640px) 100vw, (max-width: 768px) 70vw, 100vw"
+        },
+        "githubUrl": "https://github.com/Ujjwaldhariwal/Trek-Tales-India",
+        "demoUrl": "https://trek-tales-india.vercel.app/",
+        "skills": [
+            "TypeScript",
+            "NextJS",
+            "Vercel",
+            "FastAPI",
+            "Shaapit Ui"
+        ]
+    },
+    {
+        "title": "Tezi-Se Delivery Service",
+        "description": "Tezi-Se is a delivery service that aims to provide a seamless and efficient delivery experience. Our web application, built using HTML, CSS, and JavaScript, is designed to cater to the needs of both customers and delivery personnel. With a user-friendly interface and a robust backend, Tezi-Se ensures that your package reaches its destination safely and on time.",
+        "type": "University Project",
+        "imageUrl": {
+            "src": "https://i.ibb.co/J3tbmV7/tezise2.png",
+            "sizes": "(max-width: 640px) 100vw, (max-width: 768px) 70vw, 100vw"
+        },
+        "githubUrl": "https://github.com/Ujjwaldhariwal/Tezi-Se-delivery_service",
+        "demoUrl": "https://tezi-se-dilevery.netlify.app/",
+        "skills": [
+            "HTML5",
+            "JavaScript",
+            "CSS3",
+            "Tailwind",
+            "Shadcn UI",
+            "Netlify"
+        ]
+    },
+    {
+        "title": "JuiceWala",
+        "description": "JuiceWala is a web application that offers a wide range of fresh and healthy juices. Our user-friendly interface, built using HTML, CSS, and JavaScript, ensures a delightful experience for customers. JuiceWala is designed to cater to the needs of health-conscious individuals, offering a variety of juices that are both nutritious and delicious.",
+        "type": "University Project",
+        "imageUrl": {
+            "src": "https://i.ibb.co/c6nk6gH/juicewala.png",
+            "sizes": "(max-width: 640px) 100vw, (max-width: 768px) 70vw, 100vw"
+        },
+        "githubUrl": "https://github.com/Ujjwaldhariwal/JuiceWala",
+        "demoUrl": "https://juicewala.netlify.app/",
+        "skills": [
+            "HTML5", "CSS3", "JavaScript", "Material UI","Netlify"
+        ]
+    }
+]

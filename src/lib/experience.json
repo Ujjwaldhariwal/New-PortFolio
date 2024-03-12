@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "Infinte Computing Solutions",
+        "date": "January 2024 - Present",
+        "description": "I architected a scalable system for rapid deployment, making key decisions in UHBVN (Uttar Haryana Bijli Vibhag Nigam) infrastructure, database management, and design paradigms. Worked in  team of 3 in developing backend services for web and mobile using REST APIs and component-based software engineering. Collaborated with frontend engineers for seamless integration, implemented CI/CD pipelines with GitHub Actions for automated build, test, and deployment processes.",
+        "skills": [
+            "REST API",
+            "TypeScript",
+            "Spring Boot",
+            "Spring Batch",
+            "Kafka",
+            "Hibernate",
+            "Spring Security",
+            "Spring Data JPA",
+            "Digital Ocean",
+            "Agile Development",
+            "Oracle DB",
+            "Unit Testing"
+        ]
+    },
+    {
+        "title": "Software Engineer Intern",
+        "company": "RadicalX AI",
+        "date": " November 2023 - January 2024",
+        "description": "At RadicalX, I contributed to advancing ReX, our AI Coach, utilizing innovative technologies for personalized career guidance and mentorship.",
+        "skills": [
+            "Full Stack Development",
+            "ReactJS",
+            "TypeScript",
+            "GatsbyJS",
+            "Vertex AI",
+            "TensorFlow",
+            "Monorepo",
+            "CI/CD",
+            "NextJS",
+            "MongoDB",
+            "PostgreSQL",
+            "SCSS",
+            "Figma"
+        ]
+    },
+    {
+        "title": "Product Intern",
+        "company": "Growpad Ltd.",
+        "date": "August 2021 - January 2022",
+        "description": "Designed and developed web system that streamlines inventory management process for internal employees. Collaborated with other engineers on existing internal systems to add new features and fix bugs.",
+        "skills": [
+            "Full Stack Development",
+            "Product Management",
+            "Software Development lifecycle",
+            "Product Development lifecycle",
+            "Agile Development",
+            "Scrum",
+            "SCSS",
+            "Figma",
+            "Unit Testing",
+            "Black & White Box Testing"
+        ]
+    }
+]
