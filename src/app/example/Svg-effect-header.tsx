@@ -7,7 +7,7 @@ export function SVGMaskEffectDemo() {
       <MaskContainer 
         revealText={
           <p className="max-w-4xl mx-auto text-black text-center  text-4xl font-bold">
-            Greetings, My name is Ujjwal Dhariwal and I'm a Software Developer.
+            Greetings, My name is Ujjwal Dhariwal and I&apos;m a Software Developer.
              
        </p>
         }

@@ -115,7 +115,7 @@ export function BackgroundBeamsDemo() {
           Contact Me
         </h1>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          Hi there! Myself Ujjwal, a world-class developer ready to elevate your digital experience. Need a reliable, scalable, and customizable solution for your project? Look no further! Contact me and let's build something extraordinary together.
+          Hi there! Myself Ujjwal, a world-class developer ready to elevate your digital experience. Need a reliable, scalable, and customizable solution for your project? Look no further! Contact me and let&lsquo;s build something extraordinary together.
         </p>
         <Contact />
       </div>

@@ -144,7 +144,7 @@ export default function Home() {
                 </h2>
                 <br></br>
                 <p className="leading-7 text-center">
-                I'm a double-threat in code, slinging frontend finesse and backend firepower.
+                I&lsquo;m a double-threat in code, slinging frontend finesse and backend firepower.
                 </p>
                 <br></br>
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8 items-start">
