@@ -16,7 +16,7 @@ Welcome to my Next.js portfolio! This project showcases my skills and projects u
 
 ## Introduction
 
-This portfolio is built with Next.js and utilizes AceTrinityUI and Schdn UI for a modern and visually appealing design. It is written in TypeScript and JavaScript to ensure a robust and type-safe development environment.
+This portfolio is built with Next.js and utilizes AceTrinityUI and Schdn UI for a sleek and responsive design. It is written in TypeScript and JavaScript to ensure a robust and type-safe development environment.
 
 ## Features
 
@@ -32,16 +32,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
 2. Navigate to the project directory: `cd your-portfolio`
-3. Install dependencies: `pnpm install`
-4. Start the development server: `pnpm run dev`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:3000` to view your portfolio.
 
 ## Project Structure
 
-
-Here's an overview of the project structure:
-
-## Project Structure
 
 ```plaintext
 public/
@@ -83,45 +79,26 @@ src/
 README.md
 next.config.mjs
 package.json
-pnpm-lock.yaml 
+pnpm-lock.yaml
+```
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Ujjwaldhariwal/New-PortFolio.git`
+1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
 2. Navigate to the project directory: `cd your-project`
 3. Install dependencies: `pnpm install`
 4. Start the development server: `pnpm run dev`
 5. Open your browser and visit `http://localhost:3000` to view your project.
 
-
 ## Usage
 
-Feel free to customize the content, add new sections, and update the portfolio to best represent your skills and achievements. Modify the `pages` and `components` directories to fit your specific needs.
-
-## Configuration
-
-Customize the portfolio by updating the configuration files or constants as needed. You may find configuration options in the `styles` directory or within individual component files.
-
-## Dependencies
-
-The project relies on the following main dependencies:
-
-- Next.js
-- AceTrinityUI
-- Schdn UI
-
-For a complete list of dependencies, refer to the `package.json` file.
+Explain how to use your project, any configurations needed, etc.
 
 ## Contributing
 
 If you'd like to contribute to the project, feel free to open issues or pull requests. Your feedback and contributions are highly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
 
 
