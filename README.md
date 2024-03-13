@@ -38,31 +38,12 @@ To get started with the project, follow these steps:
 
 ## Project Structure
 
-Here's a basic README.md structure for your project:
-
-markdown
-Copy code
-# Your Project Name
-
-Welcome to your project! This README.md will guide you through the project structure and how to get started.
-
-## Table of Contents
-
-- [About](#about)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## About
-
-Give a brief introduction to your project here.
-
-## Project Structure
 
 Here's an overview of the project structure:
 
+## Project Structure
+
+```plaintext
 public/
 |-- mask.svg
 src/
@@ -73,37 +54,36 @@ src/
 |-- layout.tsx
 |-- page.tsx
 |-- components/
-| |-- ui/
-| |-- 3d-card.tsx
-| |-- aspect-ratio.tsx
-| |-- background-beams.tsx
-| |-- background-boxes.tsx
-| |-- badge.tsx
-| |-- button.tsx
-| |-- card.tsx
-| |-- floating-navbar.tsx
-| |-- glowing-stars.tsx
-| |-- hero-parallax.tsx
-| |-- macbook-scroll.tsx
-| |-- multi-step-loader.tsx
-| |-- separator.tsx
-| |-- svg-mask-effect.tsx
-| |-- text-generate-effect.tsx
-| |-- tooltip.tsx
-| |-- tracing-beam.tsx
-| |-- wavy-background.tsx
+|   |-- ui/
+|       |-- 3d-card.tsx
+|       |-- aspect-ratio.tsx
+|       |-- background-beams.tsx
+|       |-- background-boxes.tsx
+|       |-- badge.tsx
+|       |-- button.tsx
+|       |-- card.tsx
+|       |-- floating-navbar.tsx
+|       |-- glowing-stars.tsx
+|       |-- hero-parallax.tsx
+|       |-- macbook-scroll.tsx
+|       |-- multi-step-loader.tsx
+|       |-- separator.tsx
+|       |-- svg-mask-effect.tsx
+|       |-- text-generate-effect.tsx
+|       |-- tooltip.tsx
+|       |-- tracing-beam.tsx
+|       |-- wavy-background.tsx
 |-- lib/
-| |-- experience.json
-| |-- projects.json
+|   |-- experience.json
+|   |-- projects.json
 |-- utils/
-| |-- cn.ts
+|   |-- cn.ts
 .eslintrc.json
 .gitignore
 README.md
 next.config.mjs
 package.json
-pnpm-lock.yaml
-
+pnpm-lock.yaml 
 
 ## Getting Started
 
@@ -115,14 +95,32 @@ To get started with the project, follow these steps:
 4. Start the development server: `pnpm run dev`
 5. Open your browser and visit `http://localhost:3000` to view your project.
 
+
 ## Usage
 
-Explain how to use your project, any configurations needed, etc.
+Feel free to customize the content, add new sections, and update the portfolio to best represent your skills and achievements. Modify the `pages` and `components` directories to fit your specific needs.
+
+## Configuration
+
+Customize the portfolio by updating the configuration files or constants as needed. You may find configuration options in the `styles` directory or within individual component files.
+
+## Dependencies
+
+The project relies on the following main dependencies:
+
+- Next.js
+- AceTrinityUI
+- Schdn UI
+
+For a complete list of dependencies, refer to the `package.json` file.
 
 ## Contributing
 
 If you'd like to contribute to the project, feel free to open issues or pull requests. Your feedback and contributions are highly appreciated.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
