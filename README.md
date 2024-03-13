@@ -41,10 +41,34 @@ To get started with the project, follow these steps:
 
 ```plaintext
 public/
-|-- mask.svg
+|-- favicon.ico
+|-- globals.css
 src/
 |-- app/
 |-- example/
+|-- 3dcard.css
+|-- Contact.tsx
+|-- FloatingNavbar.tsx
+|-- HeroParallaxDemo.tsx
+|-- Loader.tsx
+|-- MacBook.tsx
+|-- Navbar.css
+|-- Navbar.tsx
+|-- SButton.css
+|-- SButton.jsx
+|-- Skills.tsx
+|-- Svg-effect-header.tsx
+|-- TextScrambler.css
+|-- TextScrambler.tsx
+|-- TracingBeam.tsx
+|-- WavyBackgroundDemo.tsx
+|-- backstory.tsx
+|-- beam.tsx
+|-- bgbox.tsx
+|-- experience-card.tsx
+|-- project-card-3d.tsx
+|-- reveal.tsx
+|-- theme-provider.tsx
 |-- favicon.ico
 |-- globals.css
 |-- layout.tsx
@@ -69,17 +93,17 @@ src/
 |       |-- tooltip.tsx
 |       |-- tracing-beam.tsx
 |       |-- wavy-background.tsx
-|-- lib/
-|   |-- experience.json
-|   |-- projects.json
-|-- utils/
-|   |-- cn.ts
+lib/
+utils/
 .eslintrc.json
 .gitignore
 README.md
 next.config.mjs
 package.json
 pnpm-lock.yaml
+postcss.config.js
+tailwind.config.ts
+tsconfig.json
 ```
 
 ## Getting Started
